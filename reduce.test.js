@@ -10,8 +10,8 @@
 //   });
 // });
 
-// describe("#vowelCount", function() {
-//   it("returns an object with the keys as vowels and the values as the count", function() {
+// describe("#vowelCount", function () {
+//   it("returns an object with the keys as vowels and the values as the count", function () {
 //     expect(vowelCount("elie")).toEqual({ e: 2, i: 1 });
 //     expect(vowelCount("tim")).toEqual({ i: 1 });
 //     expect(vowelCount("matt")).toEqual({ a: 1 });
@@ -21,7 +21,7 @@
 //       a: 4,
 //       e: 3,
 //       o: 3,
-//       u: 1
+//       u: 1,
 //     });
 //   });
 // });
